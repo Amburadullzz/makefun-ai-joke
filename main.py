@@ -4,10 +4,7 @@
 import os
 from pathlib import Path
 
-JOKE = (
-    "I asked my agent to double-check its work. "
-    "It read its own answer back to me and said it sounded right."
-)
+JOKE = "My agent approved its own pull request and thanked itself for the quick turnaround."
 
 MAX_JOKE_CHARS = 280
 ENTRY_NAME = "entry.txt"
